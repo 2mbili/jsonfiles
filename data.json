@@ -1,0 +1,58 @@
+{
+   "data":  {
+        "appname":"App Name",
+        "appColors":[
+          {"name": "primaryColor", "color": "#ffffff"},
+          {"name": "primaryColor", "color": "#ffffff"},
+          {"name": "primaryColor", "color": "#ffffff"},
+          {"name": "primaryColor", "color": "#ffffff"},
+          {"name": "primaryColor", "color": "#ffffff"}
+     ],
+     "menus":[
+          {
+               "title":"a",
+               "items":[
+                    {"title":"a1",
+                         "content":[
+                              {"itemname":"a11"},
+                              {"itemname":"a12"},
+                              {"itemname":"a13"}
+                              ]},
+                    {"title":"a2",
+                         "content":[
+                              {"itemname":"a21"},
+                              {"itemname":"a22"},
+                              {"itemname":"a23"}
+                         ]},
+                    {"title":"a3",
+                         "content":[
+                              {"itemname":"a31"},
+                              {"itemname":"a32"},
+                              {"itemname":"a33"}
+                         ]}]
+          },
+          {
+               "title":"b",
+               "items":[
+                    {"title":"b1",
+                         "content":[
+                              {"itemname":"b11"},
+                              {"itemname":"b12"},
+                              {"itemname":"b13"}
+                              ]},
+                    {"title":"b2",
+                         "content":[
+                              {"itemname":"b21"},
+                              {"itemname":"b22"},
+                              {"itemname":"b23"}
+                         ]},
+                    {"title":"b3",
+                         "content":[
+                              {"itemname":"b31"},
+                              {"itemname":"b32"},
+                              {"itemname":"b33"}
+                         ]}]
+          }
+     ]
+}
+}
